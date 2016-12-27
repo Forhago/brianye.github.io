@@ -2,7 +2,7 @@
 ## A computer scientist looking to make a difference sup
 [![10557678_10203133485563506_9081802026370542694_o.jpg](https://s28.postimg.org/6on3jzmml/10557678_10203133485563506_9081802026370542694_o.jpg)](https://postimg.org/image/cpksh298p/)
 
-[My Resume](https://forhago.github.io/brianye.github.io/resume.md)
+[My Resume](https://forhago.github.io/brianye.github.io/resume)
 
 My name is Brian, and I am a current student at the University of Michigan, Ann Arbor. I am currently majoring in Computer Science in the Literature, Science, and the Arts department, and minoring in Asian Languages and Culture.
 

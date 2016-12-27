@@ -14,7 +14,7 @@ My name is Brian, and I am a current student at the University of Michigan, Ann 
 
 [My Developed Games](https://forhago.github.io/brianye.github.io/games)
 
-[My LinkedIn Profile] (https://www.linkedin.com/in/brian-ye-356730107?trk=hp-identity-name)
+[My LinkedIn Profile](https://www.linkedin.com/in/brian-ye-356730107?trk=hp-identity-name)
 
 ## About Me
 

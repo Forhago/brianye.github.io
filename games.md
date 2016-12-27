@@ -13,7 +13,7 @@ Coming soon!
 
 Gods and Mortals is an chaotic, assymetric four-player fighting game. This is a final project we created in our game development class (Eecs 494). The four of us had to cooperate to create a fun, multiplayer game for the end-of-the-year showcase, where more than 200 people attended.
 
-Click on the image below for a brief gameplay of Gods and Mortals:
+Click on the image below for a brief gameplay video of Gods and Mortals:
 
 [![Alt text](https://img.youtube.com/vi/dIxCFT917no/0.jpg)](https://youtu.be/dIxCFT917no)
 

@@ -17,8 +17,8 @@ My name is Brian (I am the one at the top of the image), and I am a current stud
 
 ## About Me
 
-When I was still in high school, I did not have a clear idea of what I wanted to do the in future. Even in college, for the first few years, I was an undecided major, while everyone around me knew exactly what kind of field they wanted to go into. For the longest time, I took classes in a large variety of subjects, but nothing caught my interest.
+When I was still in high school, I did not have a clear idea of what I wanted to do the in future. Even in college, for the first few years, I was undecided about my major, while everyone around me knew exactly what kind of field they wanted to go study. For the longest time, I took classes in a large variety of subjects, but nothing caught my interest.
 
-It wasn't until later that I took an introduction computer science class, and realized soon after, that I loved it. I decided that I wanted to become a programmer. Already behind on schedule, I took summer classes in order to stay on top of the game and graduate on time. Though it was extremely challenging, I enjoyed every step of the way.
+It wasn't until later when I took an introduction computer science class that I realized I loved it. I decided that I wanted to become a programmer. Already behind on schedule, I took summer classes in order to stay on top of the game and graduate on time. Though it was extremely challenging, I enjoyed every step of the way.
 
-There are multiple areas in the field that I am interested in. Some of which includes game development, mobile application development, web developer, software developer, etc. I find it extremely blessed that I am given an opportunity to apply and work in any of these areas, and I will go into my goals with the greatest ambition. I am passionate about what I do, and I want to make a difference.
+There are multiple areas in the field that I am interested in. Some of which includes game development, mobile application development, web developer, software developer, etc. I find it extremely blessed that I am given an opportunity to apply and work in any of these areas. I head forward with the greatest ambition. I am passionate about what I do, and I want to make a difference.

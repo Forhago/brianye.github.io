@@ -8,8 +8,6 @@ My name is Brian (I am the one at the top of the image), and I am a current stud
 
 [My Resume](https://forhago.github.io/brianye.github.io/resume)
 
-[My Transcript](https://forhago.github.io/brianye.github.io/transcript)
-
 [My Bridevue Mobile Application](https://forhago.github.io/brianye.github.io/bridevue)
 
 [My Developed Games](https://forhago.github.io/brianye.github.io/games)

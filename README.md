@@ -1,6 +1,6 @@
 # **Brian Ye**
 
-![Image](https://postimg.org/image/cpksh298p/)
+[![10557678_10203133485563506_9081802026370542694_o.jpg](https://s28.postimg.org/6on3jzmml/10557678_10203133485563506_9081802026370542694_o.jpg)](https://postimg.org/image/cpksh298p/)
 
 
 

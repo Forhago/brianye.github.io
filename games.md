@@ -21,15 +21,15 @@ We wanted to keep the game as simple as possible, and so the entire game is func
 Click on the image below for a brief gameplay of Where the Light Doesn't Touch:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=I35Osj7xbXg/
-" target="_blank"><img src="http://img.youtube.com/vi/I35Osj7xbXg//0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/I35Osj7xbXg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 [![Alt text](https://img.youtube.com/vi/I35Osj7xbXg/0.jpg)](https://youtu.be/I35Osj7xbXg)
 
 
-<br></br>
- 
- 
+<br>
+
+
 ## **Gods and Mortals**
 
 [![Slack for iOS Upload.jpg](https://s24.postimg.org/e8t9yfhqd/Slack_for_i_OS_Upload.jpg)](https://postimg.org/image/4o9nbjse9/)

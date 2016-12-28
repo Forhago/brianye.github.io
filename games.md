@@ -4,9 +4,9 @@
 
 [Back to Home](https://forhago.github.io/brianye.github.io/)
 
+ 
 
-
-## Where the Light Doesn't Touch (awarded first place in competition!)
+## **Where the Light Doesn't Touch** (awarded first place in competition!)
 
 [![Screen Shot 2016-12-27 at 8.01.28 PM.png](https://s23.postimg.org/d8wcx2ny3/Screen_Shot_2016_12_27_at_8_01_28_PM.png)](https://postimg.org/image/4dvimjz5j/)
 
@@ -24,8 +24,9 @@ Click on the image below for a brief gameplay of Where the Light Doesn't Touch:
 
 
 
-
-## Gods and Mortals
+ 
+ 
+## **Gods and Mortals**
 
 [![Slack for iOS Upload.jpg](https://s24.postimg.org/e8t9yfhqd/Slack_for_i_OS_Upload.jpg)](https://postimg.org/image/4o9nbjse9/)
 

@@ -1,7 +1,10 @@
 # My Created Games
+
 ### All games listed were created by me (and others), and developed in the Unity Game Engine.
 
 [Back to Home](https://forhago.github.io/brianye.github.io/)
+
+
 
 ## Where the Light Doesn't Touch (awarded first place in competition!)
 
@@ -18,6 +21,8 @@ We wanted to keep the game as simple as possible, and so the entire game is func
 Click on the image below for a brief gameplay of Where the Light Doesn't Touch:
 
 [![Alt text](https://img.youtube.com/vi/I35Osj7xbXg/0.jpg)](https://youtu.be/I35Osj7xbXg)
+
+
 
 
 ## Gods and Mortals

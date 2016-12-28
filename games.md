@@ -25,8 +25,6 @@ Click on the image below for a brief gameplay of Where the Light Doesn't Touch:
 " target="_blank"><img src="http://img.youtube.com/vi/I35Osj7xbXg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-[![Alt text](https://img.youtube.com/vi/I35Osj7xbXg/0.jpg)](https://youtu.be/I35Osj7xbXg)
-
 
 <br>
 <br>
@@ -42,11 +40,18 @@ In the game, there are two human mortals trying to survive while killing each ot
 
 Click on the image below for the game trailer:
 
-[![Alt text](https://img.youtube.com/vi/hacX8FV89SI/0.jpg)](https://youtu.be/hacX8FV89SI)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=hacX8FV89SI/
+" target="_blank"><img src="http://img.youtube.com/vi/hacX8FV89SI/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 Click on the image below for a brief gameplay video of Gods and Mortals:
 
-[![Alt text](https://img.youtube.com/vi/dIxCFT917no/0.jpg)](https://youtu.be/dIxCFT917no)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dIxCFT917no/
+" target="_blank"><img src="http://img.youtube.com/vi/dIxCFT917no/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+<br>
+<br>
 
 [Back to Home](https://forhago.github.io/brianye.github.io/)

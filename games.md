@@ -7,7 +7,9 @@
 <br>
 <br>
 
-## **Where the Light Doesn't Touch** (awarded first place in competition!)
+## **Where the Light Doesn't Touch** 
+
+### (awarded first place in competition!)
 
 [![Screen Shot 2016-12-27 at 8.01.28 PM.png](https://s23.postimg.org/d8wcx2ny3/Screen_Shot_2016_12_27_at_8_01_28_PM.png)](https://postimg.org/image/4dvimjz5j/)
 

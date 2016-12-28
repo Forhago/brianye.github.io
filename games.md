@@ -4,7 +4,8 @@
 
 [Back to Home](https://forhago.github.io/brianye.github.io/)
 
- 
+<br>
+<br>
 
 ## **Where the Light Doesn't Touch** (awarded first place in competition!)
 
@@ -28,7 +29,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 <br>
-
+<br>
 
 ## **Gods and Mortals**
 

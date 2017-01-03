@@ -1,6 +1,6 @@
 # **Brian Ye**
 
-## A computer scientist looking to make a difference
+## Looking to make a difference
 
 [![IMG_0164.jpg](https://s28.postimg.org/734lorcjx/IMG_0164.jpg)](https://postimg.org/image/6qd7ikua1/)
 

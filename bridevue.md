@@ -24,9 +24,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 # My Contributions and Experience
 
-After interning with them full-time over the summer of 2016, I continued working for them as a part-timer throughout my senior year, and is currently working there right now. Although at first, I had absolutely no experience in anything that they did, including the utilization of the Unity Game Engine, or REST APIs, I was flexible enough to learn quickly. Now, I am currently the head programmer after the former one left, and I can confidently say that I understand the project enough to lead it.
+After interning with them full-time over the summer of 2016, I continued working for them as a part-timer throughout my senior year, and is currently working there right now. Although at first, I had absolutely no experience in anything that they did, including the utilization of the Unity Game Engine, or REST APIs, I was flexible enough to learn quickly. Now, I am currently the main programmer after the former one left, and I can confidently say that I understand the project enough to lead it.
 
-Working at a startup has taught me multiple things. Since the team is extremely small, I had to learn how to cooperate with others, even if it is with just one other programmer. Everything happens quickly, and I must improvise and make decisions on the fly. I also had to take charge of many projects, and think creatively and quickly in order to solve complex issues. Many of the times there was noone I could ask for help besides myself, which further challenged me to put in more effort.
+Working at a startup has taught me multiple things. Since the team is extremely small, I had to learn how to cooperate with others, even if it is with just one other programmer. Everything also happens and changes quickly, and I must improvise and make decisions on the fly. I also had to take charge of many projects, and think creatively and quickly in order to solve complex issues. Many of the times there was noone I could ask for help besides myself, which further challenged me to put in more effort.
 
 Throughout my job here, I've been shaped into the programmer I am now. I'd argue that I've learned more here at a startup than anywhere else I could have worked, and I will take my experience into any future challenges I will face.
 

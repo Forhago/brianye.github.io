@@ -24,7 +24,7 @@ The new-member recruitment chair taught me event-planning skills. Throughout thi
 
 <br>
 
-# Performance Chair/Choreographer
+### Performance Chair/Choreographer
 
 I have a passion for dancing, which lead me to become the performance chair and choreographer of Pi Alpha Phi. I had to prepare performances for many shows throughout the year. Such shows include the Multi-Cultural Greek Exhibition, which displays the talent of a large variety of greek organizations, and many small-scaled charity shows. Lastly, I had to prepare a performance for one of the largest Asian culturals of the year, named Generation APA, at the end of the year, where more than five-hundred spectators attended. From this experience, I've had the privilege to work with many talented individuals, and gained leadership and collaborative experience.
 

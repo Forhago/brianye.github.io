@@ -1,12 +1,16 @@
+# My Leadership Experience in Pi Alpha Phi at the University of Michigan
+
 [Back to Home](https://forhago.github.io/brianye.github.io/)
 
 <br>
 
-# My Leadership Experience in Pi Alpha Phi at the University of Michigan
-
 [![1597184_523902997709678_6068670875574598757_o.jpg](https://s23.postimg.org/m38fsv5ej/1597184_523902997709678_6068670875574598757_o.jpg)](https://postimg.org/image/h4kxec1lj/)
 
+<br>
+
 ## Experiences
+
+<br>
 
 ### President
 

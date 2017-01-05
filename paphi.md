@@ -30,7 +30,7 @@ The new-member recruitment chair taught me event-planning skills. Throughout thi
 
 ### Performance Chair/Choreographer
 
-I have a passion for dancing, which lead me to become the performance chair and choreographer of Pi Alpha Phi. I had to prepare dances for many shows throughout the year. Such shows include the Multi-Cultural Greek Exhibition, which displays the talent of a large variety of greek organizations, and many small-scaled charity shows. Lastly, I had to prepare a performance for one of the largest Asian culturals of the year, named Generation APA. Generation APA is at the end of the year, where more than five-hundred spectators attended. In a few month's time period, I've held practices throughout every week until the event. From this experience, I've had the privilege to work with many talented individuals, and gained leadership and collaborative experience.
+I have a passion for dancing, which lead me to become the performance chair and choreographer of Pi Alpha Phi. I had to prepare dances for many shows throughout the year. Such shows include the Multi-Cultural Greek Exhibition, which displays the talent of a large variety of greek organizations, and many small-scaled charity shows. Lastly, I had to prepare a performance for one of the largest Asian culturals of the year, named Generation APA. Generation APA is at the end of the school year, where more than five-hundred spectators attended. In a few month's time period, I've held practices throughout every week until the event. From this experience, I've had the privilege to work with many talented individuals, and gained leadership and collaborative experience.
 
 <br>
 

@@ -14,11 +14,11 @@
 
 ### President
 
-As the current president of Pi Alpha Phi, I serve as the face of the organization. Not only am I responsible for all the events and actions of Pi Alpha Phi, I must oversee them, working with many members of the organization to organize the events smoothly. Such planning includes philanthropy trips, brotherhood bondings, professional workshops, and internal chapter meetings. 
+As a former president of Pi Alpha Phi, I served as the face of the organization. Not only was I responsible for all the events and actions of Pi Alpha Phi, I had to oversee them, working with many members of the organization to organize the events smoothly. Such planning included philanthropy trips, brotherhood bondings, professional workshops, and internal chapter meetings. 
 
-In addition, I must cooperate with representatives from multiple other organizations outside of Pi Alpha phi to arrange collaborative events, whether social or business. No matter who and what chair is responsible for the planning, it is my duty to guide them and oversee the entire process.
+In addition, I cooperated with representatives from multiple other organizations outside of Pi Alpha phi to arrange collaborative events, whether social or business No matter who and what chair was responsible for the planning, it was my duty to guide them and oversee the entire process.
 
-Whether it is experience in event-planning or communication, I must utilize all these skills in order to manage Pi Alpha Phi. However, the main concept I learned from being president is not one you can find anywhere else: leadership. No matter what previous experienve I have, as a leader, it is important to integrate these experiences to motivate others, guide them, and ultimately improve the organization as a whole. That is the greatest challenge that I'd like to say I've overcome.
+Whether it was experience in event-planning or communication, I utilized all these skills in order to manage Pi Alpha Phi. However, the main concept I learned from being president is not one you can find anywhere else: leadership. No matter what previous experienve I have, as a leader, it is important to integrate these experiences to motivate others, guide them, and ultimately improve the organization as a whole. That is the greatest challenge that I'd like to say I've overcome.
 
 <br>
 
